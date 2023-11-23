@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Hey" + " What's up")
+# print("Hello " + input("Enter your name"))
+name = input("enter name\n")
+print(len(name))
